@@ -1,0 +1,6 @@
+evaluate==0.4.3
+nltk==3.9.1
+numpy==2.2.3
+sentencepiece==0.2.0
+torch==2.6.0+cu126
+tqdm==4.67.1
